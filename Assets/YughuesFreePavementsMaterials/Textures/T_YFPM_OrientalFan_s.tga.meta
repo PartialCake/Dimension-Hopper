@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af385978b1849ca4f823ea7fe9f7d60e
+guid: fbb523396a6affd42b72159f8b618fcd
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_OrientalFan_s.tga
+  uploadId: 749620

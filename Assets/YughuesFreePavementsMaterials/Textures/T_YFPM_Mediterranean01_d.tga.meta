@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9dbd9ea1c9326534995e5be70fde0034
+guid: 49e82c216524bb24e9de97f5a43f9128
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_Mediterranean01_d.tga
+  uploadId: 749620

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 795618a22b5b9f64798588e7aa2bc6b6
+guid: 7eab6a05bdb14f64688779a18fdb4d1d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_JaggedSquare_s.tga
+  uploadId: 749620

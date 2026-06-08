@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 769ca9961ff1a864fa2114e2126a15b3
+guid: c7445594d0615e6478add3257f801a08
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_StonesSmooth_s.tga
+  uploadId: 749620

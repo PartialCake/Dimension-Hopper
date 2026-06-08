@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5112912bdbe097a488876e3fad901eb1
+guid: 62bbfa62a86534d4ea8cae27a119f1e3
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Preview/Sc_Preview/ReflectionProbe-0.exr
+  uploadId: 749620

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5f4ebca327b36fc41964a9a822008448
+guid: f6436ab7c27de044d8f7877f9339ed98
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_SmoothSquare_d.tga
+  uploadId: 749620

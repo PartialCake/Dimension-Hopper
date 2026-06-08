@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0404e0193e2b02a44abd32101d3f5cd7
+guid: 58ed336664be44e48b7b021c4d0f0663
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_Rough04_n.tga
+  uploadId: 749620

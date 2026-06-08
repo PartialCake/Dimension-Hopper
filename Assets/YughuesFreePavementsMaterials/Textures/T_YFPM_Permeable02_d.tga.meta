@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a808b6840cf1463479239d66c579c6a7
+guid: 293fc4c7f8dc821489f994a263db069d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_Permeable02_d.tga
+  uploadId: 749620

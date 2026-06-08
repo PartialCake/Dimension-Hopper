@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b3823cb7057f3454299ce8ba723fc631
+guid: d09717d7be4b7444fb2b9d6ee4d6f8ec
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_BrokenRectangles_s.tga
+  uploadId: 749620

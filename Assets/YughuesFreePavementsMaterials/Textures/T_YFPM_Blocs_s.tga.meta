@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 814e5090d4b88db4a8d6200b4a95027a
+guid: 1078e073ca020cd49931aea67ccfa0d5
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_Blocs_s.tga
+  uploadId: 749620

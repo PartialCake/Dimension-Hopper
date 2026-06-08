@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e947ca7f8824bc24eb1706fe2ce71da4
+guid: 752836b77891f4e42ae8a8677aebfc3c
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -112,3 +112,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Textures/T_YFPM_StonesFlat_s.tga
+  uploadId: 749620

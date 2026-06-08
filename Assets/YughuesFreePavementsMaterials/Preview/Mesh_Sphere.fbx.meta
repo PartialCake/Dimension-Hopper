@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d6c6831d7958ff3479605eda53124d7c
+guid: 4e6d44aacbc6782429c6c33e9c498499
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -107,3 +107,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 12952
+  packageName: Yughues Free Pavement Materials
+  packageVersion: 1.0
+  assetPath: Assets/YughuesFreePavementsMaterials/Preview/Mesh_Sphere.fbx
+  uploadId: 749620
