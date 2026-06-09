@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac5ca4c5b6467374b97ce74a1026f385
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 167590
+  packageName: Rust Key
+  packageVersion: 1.0
+  assetPath: Assets/Rust Key/Materials/rust_key_autodesk.mat
+  uploadId: 364870
