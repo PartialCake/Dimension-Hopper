@@ -1,21 +1,20 @@
 using Oculus.Interaction.HandGrab;
 using UnityEngine;
 
-public class boxBehavior2 : MonoBehaviour
+public class Missing2 : MonoBehaviour
 {
-    public Rigidbody rb;
-    public HandGrabInteractable interactable;
+    public Rigidbody missing2rigidbody;
+    public HandGrabInteractable missing2interactable;
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other.gameObject.name);
 
-        if (other.gameObject.name == "spot2")
+        if (other.gameObject.name == "Spot2")
         {
             transform.position = new Vector3(other.transform.position.x, other.transform.position.y, other.transform.position.z);
             transform.rotation = other.transform.rotation;
 
-            rb.isKinematic = true;
-            interactable.enabled = false;
+            missing2rigidbody.isKinematic = true;
+            missing2interactable.enabled = false;
         }
     }
 }
